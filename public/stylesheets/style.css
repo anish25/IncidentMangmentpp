@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Base */
 body {
   line-height: 1.7;
@@ -778,3 +779,13 @@ h1, h2, h3, h4, h5,
   width: 40px;
   height: 40px;
   line-height: 40px; }
+=======
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+>>>>>>> 6537af5925ba2ae7318172b3f12541078894bf59
